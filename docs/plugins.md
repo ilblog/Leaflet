@@ -1078,6 +1078,17 @@ Load overlay data from third-party-services. See also [basemap providers](#basem
 			<a href="https://github.com/MatthewBarker">Matthew Barker</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/windycom/API">Windy-Leaflet-plugin</a>
+		</td>
+		<td>
+			Windy.com animated Weather map as easy tu use Leaflet plugin.
+		</td>
+		<td>
+			<a href="https://github.com/windycom">Windy</a>
+		</td>
+	</tr>
 </table>
 
 
